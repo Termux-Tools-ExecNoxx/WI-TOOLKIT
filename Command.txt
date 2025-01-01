@@ -1,0 +1,10 @@
+WI-TOOLKIT is a utility that allows you to carry out a brute-force attack on a selected Wi-Fi network. Also, this utility allows you to start a WPS, WPA / WPA2 attack, but this requires an Internet connection.
+
+Installation :
+git clone https://github.com/mkdirlove/WI-TOOLKIT
+cd WI-TOOLKIT
+chmod + x *
+./install.sh
+
+Usage :
+$ sudo python wi-toolkit.py
